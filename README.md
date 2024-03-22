@@ -1,2 +1,2 @@
 # Blackjack_Game
-Creating a game called Blackjack
+Creating a simple game called Blackjack with html, javascript and css
