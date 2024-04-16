@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blackjack Game
 
 This is a simple implementation of the classic Blackjack game using HTML, CSS, and JavaScript.
@@ -36,4 +35,4 @@ By following these principles, the JavaScript code remains concise, clear, and e
 =======
 # Blackjack_Game
 Creating a simple game called Blackjack with html, javascript and css
->>>>>>> 3950a3933de684fe01002d1aefd40fe67270bcce
+
