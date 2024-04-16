@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blackjack Game
 
 This is a simple implementation of the classic Blackjack game using HTML, CSS, and JavaScript.
@@ -32,3 +33,7 @@ The JavaScript code follows a modular approach to ensure readability and maintai
 - **Consistent Naming**: Variables and functions are named descriptively to enhance understanding.
 
 By following these principles, the JavaScript code remains concise, clear, and easy to understand, facilitating future updates and modifications.
+=======
+# Blackjack_Game
+Creating a simple game called Blackjack with html, javascript and css
+>>>>>>> 3950a3933de684fe01002d1aefd40fe67270bcce
